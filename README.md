@@ -1,8 +1,6 @@
 # WebScraping-EventData
 
-## Business Value & Objectives
-
-## What is in the Repo?
+## Objectives
 
 ## Data Collection & Preprocessing
 
