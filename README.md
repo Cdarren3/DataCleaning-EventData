@@ -13,7 +13,7 @@ Collect cleaned and usable event data for further study
 
 ## Data Collection & Preprocessing
 
-* Data were previously collected from the website, only data cleaning is needed
+* Data were previously collected from the website, only preprocessing is needed
 * Data was then cleaned and rearranged into columns as below:
 
     * Date (DD/MM/YY)
