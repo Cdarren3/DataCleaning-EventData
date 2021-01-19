@@ -4,7 +4,7 @@ Collected indoor events data from 2018-2020. This is a data cleaning project fol
 
 ## Objectives
 
-Collect cleaned and usable event data for further study
+Transform data into cleaned and usable event data for further study
 
 ## Tools Involved
 
