@@ -4,6 +4,11 @@ Collected indoor events data from 2018-2020. This is a data cleaning project fol
 ## Objectives
 Collect cleaned and usable event data for further study
 
+## Tools Involved
+
+* Pandas
+* Regex
+
 ## Data Collection & Preprocessing
 * Data were previously collected from the website, only data cleaning is needed
 * Data was then cleaned and formatted into columns as below:
@@ -25,7 +30,4 @@ Collect cleaned and usable event data for further study
     * Remarks
     * Venue Type
 
-## Tools Involved
 
-* Pandas
-* Regex
